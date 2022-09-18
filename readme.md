@@ -3,17 +3,28 @@
 ![preview](./.github/preview.png)
 
 >## 🚀 Trilha Explorer 
+<br>
 
-Projeto construído do evento Next Level Week da Rockeatseat
+>##  💻 Tecnologias 
+<br>
 
->👉 [Clique aqui para acessar](https://billsmokexv.github.io/nlw-explorer-esports/) 
-
- >##  💻 Tecnologias 
 
 - HTML
 - CSS
-- Git e Github
+- GIT 
+- GITHUB
+
+<br>
+
+>## Projeto construído no evento [Next Level Week](https://lp.rocketseat.com.br/nlw)  da [Rockeatseat](https://github.com/Rocketseat)
+<br>
+
+>Para visualizar o projeto basta clicar 👉 [Aqui para acessar](https://billsmokexv.github.io/nlw-explorer-esports/)
+
+<br> 
 
 >## 📲 Contato
+<br>
 
-- rfsinfomanutencao@gmail.com
+- [Email](rfsinfomanutencao@gmail.com)
+- [Github](https://github.com/BillSmokeXV)
